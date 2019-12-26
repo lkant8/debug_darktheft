@@ -1,0 +1,2 @@
+include ':app', ':sdkrepo'
+rootProject.name='SDK_repo_master'
