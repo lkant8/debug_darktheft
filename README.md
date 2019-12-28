@@ -13,7 +13,7 @@ Step 1. Add the JitPack repository to your build file
   Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.darktheft:debug_darktheft:Tag'
+	        implementation 'com.github.darktheft:debug_darktheft:v1.0.1'
 	}
   
   [![](https://jitpack.io/v/darktheft/debug_darktheft.svg)](https://jitpack.io/#darktheft/debug_darktheft)
@@ -33,7 +33,7 @@ Step 1. Add the JitPack repository to your build file
   <dependency>
 	    <groupId>com.github.darktheft</groupId>
 	    <artifactId>debug_darktheft</artifactId>
-	    <version>Tag</version>
+	    <version>v1.0.1</version>
 	</dependency>
   
   
@@ -48,7 +48,7 @@ Step 1. Add the JitPack repository to your build file
 Step 2. Add the dependency
 
 	
-	libraryDependencies += "com.github.darktheft" % "debug_darktheft" % "Tag"
+	libraryDependencies += "com.github.darktheft" % "debug_darktheft" % "v1.0.1"
   
   
   
@@ -63,7 +63,7 @@ Step 2. Add the dependency
 Step 2. Add the dependency
 
 	
-	:dependencies [[com.github.darktheft/debug_darktheft "Tag"]]	
+	:dependencies [[com.github.darktheft/debug_darktheft "v1.0.1"]]	
   
   
   [![](https://jitpack.io/v/darktheft/debug_darktheft.svg)](https://jitpack.io/#darktheft/debug_darktheft)
