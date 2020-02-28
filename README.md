@@ -1,5 +1,9 @@
 # debug_darktheft
 # To get a Git project into your build:
+
+![donate](https://github.com/darktheft/FlashLogin/blob/master/donation.png)
+# Subscribe 
+[Youtube](https://www.youtube.com/channel/UCdbUomS4yFXN9D3_ZLtJJUg)
   # gradle
 Step 1. Add the JitPack repository to your build file
 
